@@ -40,8 +40,8 @@ Database Structure
 The database contains three tables:
 
 1. Customers images/ ![JOIN Query](images/Customer_table.png)
-2. Products
-3. Sales
+2. Products ![JOIN Query](images/Product_table.png)
+3. Sales ![JOIN Query](images/Sales_table.png)
 
 The tables are connected using foreign keys.
 
