@@ -39,7 +39,7 @@ Database Structure
 
 The database contains three tables:
 
-1. Customers
+1. Customers images/ ! [Join Query] (Customer table.png)
 2. Products
 3. Sales
 
